@@ -297,7 +297,7 @@ body .theme-button:hover span {opacity: 1;}
   height: 40px;
   line-height: 38px;
   border: 2px solid #fff;
-  background-color: #000000;
+  background-color: #09142F;
   border-radius: 20px;
   text-transform: uppercase;
   color: #fff;
@@ -351,7 +351,7 @@ body .theme-button:hover span {opacity: 1;}
   width: 150px;
   line-height: 55px;
   color: #fff;
-  background: black;
+  background: #09142F;
   font-size: 18px;
   border-radius: 3px;
   text-align: center;
@@ -477,7 +477,7 @@ body .theme-button:hover span {opacity: 1;}
   color: #fff;
   padding: 0 36px;
 }
-.theme-banner-two .main-text-wrapper .button-group li a:hover {color: #161616;}
+.theme-banner-two .main-text-wrapper .button-group li a:hover {color: #09142F;}
 .theme-banner-two .cube-shape {
   position: absolute;
   top:7%;
@@ -615,7 +615,7 @@ body .theme-button:hover span {opacity: 1;}
   top:22px;
 }
 .stock-market-price #market-rate .main-wrapper .current-info.range-down {color: #ff4c2f;}
-.stock-market-price #market-rate .main-wrapper .current-info.range-up {color: #08dd67;}
+.stock-market-price #market-rate .main-wrapper .current-info.range-up {color: #261bc5;}
 
 .stock-market-price #market-rate .main-wrapper .icon {font-size: 8px;}
 .stock-market-price #market-rate .main-wrapper .rate {
@@ -633,7 +633,7 @@ body .theme-button:hover span {opacity: 1;}
   left:0;
 }
 .stock-market-price #market-rate .main-wrapper .range-down .rate:before {background: linear-gradient(90deg, rgb(255,116,93) 10%, rgba(255,255,255,1) 100%);}
-.stock-market-price #market-rate .main-wrapper .range-up .rate:before {background: linear-gradient(90deg, rgb(8,221,103) 10%, rgba(255,255,255,1) 100%);}
+.stock-market-price #market-rate .main-wrapper .range-up .rate:before {background: linear-gradient(90deg, rgb(38, 25, 151) 10%, rgba(255,255,255,1) 100%);}
 /*--------------------- Our Features --------------------*/
 .our-features-one {
   padding: 120px 0 155px;
@@ -782,7 +782,7 @@ body .theme-button:hover span {opacity: 1;}
 .our-feature-two.dark-bg {padding: 170px 0 80px;}
 /*----------------------- Apps Overview ---------------------*/
 .apps-overview {position: relative;margin-bottom: 210px;}
-.apps-overview.color-one {background:linear-gradient( 39deg, rgb(173,244,142) 0%, rgb(0,206,175) 100%);}
+.apps-overview.color-one {background:linear-gradient( 39deg, #37435f 0%, #09142F 100%);}
 .apps-overview .overlay-bg {background-position: center center; position: relative;}
 .apps-overview .overlay-bg .cube-shape-one {
   position: absolute;
@@ -815,9 +815,10 @@ body .theme-button:hover span {opacity: 1;}
   line-height: 55px;
   text-align: center;
   border-radius: 3px;
-  background: #fff;
+  background: #01081a;
   font-size: 20px;
-  color: #313131;
+  color: #fff;
+  border-radius: 30px;
 }
 .apps-overview .inner-wrapper .button-group li a i {
   margin-right: 3px;
@@ -1071,7 +1072,7 @@ body .theme-button:hover span {opacity: 1;}
   font-size: 16px;
   margin-bottom: 30px;
 }
-.contact-us-one form input:focus {box-shadow: 0px 3px 16px 0px rgba(63, 53, 53, 0.07);}
+.contact-us-one form input:focus {box-shadow: 0px 3px 16px 0px #09142F;}
 .contact-us-one form button {
   font-family: 'brandon_grotesquemedium';
   width: 220px;
@@ -1082,7 +1083,7 @@ body .theme-button:hover span {opacity: 1;}
   color: #fff;
   font-size: 20px;
 }
-.contact-us-one form button:hover {background: #283249;}
+.contact-us-one form button:hover {background: #12265a;}
 .contact-us-one.bg-color {
   position: relative;
   background: linear-gradient( 29deg, rgb(74,2,199) 0%, rgb(117,1,209) 100%);
